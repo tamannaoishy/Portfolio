@@ -5,7 +5,7 @@ This site showcases my background, projects, skills, education, and current focu
 
 ## 🌐 Live Preview
 
-🔗 [Visit Portfolio](https://your-vercel-url.vercel.app)
+🔗 [Visit Portfolio](https://portfolio-one-mu-55.vercel.app/)
 
 ## 📌 About Me
 
