@@ -19,10 +19,10 @@ export default function Home() {
       <Skills />
       <Projects />
       <Education />
-      <Contact />
       <Research />
       <Certificates />
       <Leadership />
+      <Contact />
     </>
   );
 }

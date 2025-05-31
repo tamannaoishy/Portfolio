@@ -18,12 +18,14 @@ export default function Hero() {
 
         {/* Tagline */}
         <h2 className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 font-medium mb-4">
-          CSE Graduate | Software Quality Assurance Enthusiast | Problem Solver
+         CSE Graduate | SQA Enthusiast | ML Explorer | Web Dev Learner | Problem Solver
         </h2>
 
         {/* Description */}
         <p className="text-base md:text-lg text-gray-500 dark:text-gray-400 mb-6">
-          I build clean, user-friendly web apps that solve real-world problems.
+          Exploring tech. Ensuring reliability.
+
+
         </p>
 
         {/* Resume Button */}

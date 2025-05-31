@@ -27,10 +27,13 @@ export default function About() {
           </h2>
           <p className="text-gray-600 dark:text-gray-300 text-lg leading-relaxed">
             I'm <span className="font-semibold text-orange-500">Jakia Tamanna Oishy</span>,
-            a passionate CSE graduate and software quality assurance enthusiast.
-            With a love for clean, well-structured code and a deep curiosity for how
-            systems work, I aim to build user-focused applications that solve real problems.
-            I’m driven by learning, detail, and thoughtful design.
+           a Computer Science and Engineering graduate from RUET with hands-on experience in machine learning, web development, and software testing. While my journey began with building simple web apps and exploring ML models, I’ve found my true interest in Software Quality Assurance — ensuring that systems don’t just work, but work reliably.
+
+Currently focused on testing, I enjoy uncovering edge cases, improving test coverage, and contributing to the overall quality of products. My background in coding helps me understand systems inside-out, while my mindset is always tuned toward precision, consistency, and continuous improvement.
+
+I’m now actively pursuing a career in SQA — where I can combine my technical understanding, problem-solving skills, and passion for clean, stable software.
+
+Outside of tech, I value curiosity, honesty, and learning something new every day.
           </p>
         </motion.div>
       </div>
