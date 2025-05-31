@@ -6,7 +6,7 @@ const projects = [
     tools: ["React", "TailwindCSS", "Framer Motion"],
     image: "/images/portfolio.jpg", // add to public/images/
     github: "https://github.com/tamannaoishy/personal-portfolio",
-    demo: "https://tamannaoishy.github.io/",
+    demo: "https://portfolio-one-mu-55.vercel.app/",
   },
     {
     id: "Testing",  
