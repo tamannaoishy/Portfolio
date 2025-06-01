@@ -2,6 +2,8 @@ import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import projects from '../data/projects';
 
+
+
 export default function Projects() {
   return (
     <section id="projects" className="py-16 bg-white dark:bg-gray-900 px-6">
@@ -24,6 +26,7 @@ export default function Projects() {
   >
     <span className="text-center px-4">{project.title}</span>
   </Link>
+  
 </motion.div>
 
           ))}

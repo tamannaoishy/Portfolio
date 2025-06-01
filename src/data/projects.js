@@ -1,12 +1,17 @@
+import { projectSummaries } from './projectSummaries';
+
 const projects = [
     {
     id: "portfolio",  
     title: "Personal Portfolio Website",
-    description: "A responsive portfolio site showcasing my skills, projects, and resume. Built with modern tools and smooth animations.",
-    tools: ["React", "TailwindCSS", "Framer Motion"],
+    //description: "A responsive portfolio site showcasing my skills, projects, and resume. Built with modern tools and smooth animations.",
+    //tools: ["React", "TailwindCSS", "Framer Motion"],
     image: "/images/portfolio.jpg", // add to public/images/
     github: "https://github.com/tamannaoishy/personal-portfolio",
-    //demo: "https://portfolio-one-mu-55.vercel.app/",
+    live: "https://portfolio-one-mu-55.vercel.app/",
+    summary: projectSummaries.portfolio,
+    
+    
   },
     {
     id: "Testing",  
@@ -15,7 +20,8 @@ const projects = [
     tools: ["JIRA", "Google Docs", "Excel"],
     image: "/images/StackFood.png", // add to public/images/
     github: "https://github.com/tamannaoishy/Manual-Testing-on-StackFood-Food-Delivery-System",
-    demo: "",
+    live: "",
+    
   },
   {
     id: "Agriculture",
@@ -24,7 +30,8 @@ const projects = [
     tools: ["JavaScript", "SQLite", "Django","HTML", "CSS"],
     image: "/images/Agriculture.jpg", // add to public/images/
     github: "https://github.com/tamannaoishy/Project-krishiporamorsho",
-    demo: "",
+    live: "",
+    summary: projectSummaries.agriculture,
   },
   
 ];
