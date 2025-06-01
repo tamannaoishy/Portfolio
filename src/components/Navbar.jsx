@@ -32,11 +32,11 @@ export default function Navbar() {
           <li><a href="#about" className="hover:text-orange-500">About</a></li>
           <li><a href="#skills" className="hover:text-orange-500">Skills</a></li>
           <li><a href="#projects" className="hover:text-orange-500">Projects</a></li>
-          <li><a href="#contact" className="hover:text-orange-500">Contact</a></li>
           <li><a href="#education" className="hover:text-orange-500">Education</a></li>
           <li><a href="#research" className="hover:text-orange-500">Research</a></li>
           <li><a href="#certificates" className="hover:text-orange-500">Certificates</a></li>
           <li><a href="#leadership" className="hover:text-orange-500">Leadership</a></li>
+          <li><a href="#contact" className="hover:text-orange-500">Contact</a></li>
         </ul>
 
         {/* Theme Toggle (Desktop) */}
