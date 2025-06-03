@@ -37,11 +37,14 @@ export default function Contact() {
             <FaLinkedin />
           </a>
           <a
-            href="mailto:jakiatamannaoishy@gmail.com"
+            href="mailto:jakiatamannaoishy@gmail.com?subject=Portfolio%20Inquiry"
             className="hover:text-orange-500 transition"
+            title="Send me an email"
           >
             <FaEnvelope />
           </a>
+
+
         </div>
       </motion.div>
     </section>
