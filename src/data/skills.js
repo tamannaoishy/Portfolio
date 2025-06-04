@@ -1,6 +1,6 @@
 const skills = {
   Languages: ["C", "C++", "Python", "JavaScript"],
-  Frameworks: ["React", "Django", "TailwindCSS"],
+  FrontEnd: ["HTML5","CSS3","React","TailwindCSS"],
   Tools: ["Git", "GitHub", "JIRA", "Microsoft Office"],
   Methodologies:["Agile", "Scrum", "OOP", "Algorithm","Data Structure"],
   Databases: ["MySQL"],

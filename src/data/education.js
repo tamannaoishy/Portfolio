@@ -2,8 +2,8 @@ const education = [
   {
     degree: "B.Sc. in Computer Science & Engineering",
     institution: "Rajshahi University of Engineering & Technology",
-    duration: "January 2018 – February 2024",
-    result: "CGPA: 2.70/4.00",
+    duration: "January 2018 – April 2024",
+    
     
     courses: [
      "CSE 1100 - Computer Fundamentals and Ethics",

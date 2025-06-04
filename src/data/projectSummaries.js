@@ -40,7 +40,7 @@ export const projectSummaries = {
 
 
 
-  agriculture: `
+  Classification: `
 **Goal:**  
 Develop a binary text classifier using Python and scikit-learn.
 

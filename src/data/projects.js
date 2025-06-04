@@ -6,7 +6,7 @@ const projects = [
     title: "Personal Portfolio Website",
     //description: "A responsive portfolio site showcasing my skills, projects, and resume. Built with modern tools and smooth animations.",
     //tools: ["React", "TailwindCSS", "Framer Motion"],
-    image: "/images/portfolio.jpg", // add to public/images/
+    image: "/images/portfolio.png", // add to public/images/
     github: "https://github.com/tamannaoishy/personal-portfolio",
     live: "https://portfolio-one-mu-55.vercel.app/",
     summary: projectSummaries.portfolio,
@@ -15,23 +15,24 @@ const projects = [
   },
     {
     id: "Testing",  
-    title: "Manual Testing on StackFood – Food Delivery System (Demo Project)",
-    description: "Conducted static and functional testing across key modules (login, cart, checkout), designed test  cases and test conditions, tracked and prioritized defects in JIRA, and delivered test summary reports using traceability techniques and the defect life cycle.",
-    tools: ["JIRA", "Google Docs", "Excel"],
-    image: "/images/StackFood.png", // add to public/images/
-    github: "https://github.com/tamannaoishy/Manual-Testing-on-StackFood-Food-Delivery-System",
+    title: "E-Commerce Manual Testing Project",
+    description: "This is a QA documentation project focused on manual testing of a demo e-commerce website.",
+    tools: ["Google Chrome", "Google Docs", "Excel"],
+    image: "/images/Manual-QA-Testingt.webp", // add to public/images/
+    github: "https://github.com/tamannaoishy/E-Commerce-Manual-Testing-Project",
     live: "",
     
   },
+
   {
-    id: "Agriculture",
-    title: "KrishiPoramorsho – Expert Agricultural Support Platform",
-    description: "Developed a web-based platform to connect Bangladeshi farmers with expert agricultural advice,enabling users to submit crop-related queries, receive expert responses, and access a searchable knowledge base through a simple, rural-friendly interface.",
-    tools: ["JavaScript", "SQLite", "Django","HTML", "CSS"],
-    image: "/images/Agriculture.jpg", // add to public/images/
-    github: "https://github.com/tamannaoishy/Project-krishiporamorsho",
+    id: "Classification",
+    title: "Breast-Cancer-Prediction-by-Effective-Feature-Selection-Using-Machine-Learning-Algorithms",
+    description: "This project focuses on building machine learning models to classify breast cancer tumors (benign vs. malignant)",
+    tools: ["Python", "Pandas", "NumPy","scikit-learn", "Matplotlib","Seaborn","Google Colab"],
+    image: "/images/classification.png", // add to public/images/
+    github: "https://github.com/tamannaoishy/Breast-Cancer-Prediction-by-Effective-Feature-Selection-Using-Machine-Learning-Algorithms",
     live: "",
-    summary: projectSummaries.agriculture,
+    summary: projectSummaries.Classification,
   },
   
 ];
