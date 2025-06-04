@@ -12,7 +12,6 @@ This site showcases my background, projects, skills, education, and current focu
 I'm a CSE graduate from RUET with hands-on experience in machine learning, web development, and software testing.  
 Currently, I’m pursuing a career in Software Quality Assurance — combining technical knowledge with an eye for precision and reliability.
 
-> **Tagline:** CSE Graduate | Software Quality Assurance Enthusiast | Machine Learning Explorer | Aspiring Web Developer | Analytical Problem Solver
 
 ## 🛠️ Tech Stack
 
