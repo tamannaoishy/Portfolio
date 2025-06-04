@@ -7,7 +7,7 @@ const projects = [
     //description: "A responsive portfolio site showcasing my skills, projects, and resume. Built with modern tools and smooth animations.",
     //tools: ["React", "TailwindCSS", "Framer Motion"],
     image: "/images/portfolio.png", // add to public/images/
-    github: "https://github.com/tamannaoishy/personal-portfolio",
+    github: "https://github.com/tamannaoishy/Portfolio",
     live: "https://portfolio-one-mu-55.vercel.app/",
     summary: projectSummaries.portfolio,
     
