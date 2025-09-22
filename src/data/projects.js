@@ -1,6 +1,18 @@
 import { projectSummaries } from './projectSummaries';
 
 const projects = [
+  {
+    id: "Dmoney",  
+    title: "Dmoney REST API Project",
+    //description: "A responsive portfolio site showcasing my skills, projects, and resume. Built with modern tools and smooth animations.",
+    //tools: ["React", "TailwindCSS", "Framer Motion"],
+    image: "/images/dmoney.png", // add to public/images/
+    github: "https://github.com/tamannaoishy/Dmoney-REST-API-Integration-Project-Postman-Automation-Collections",
+    live: "",
+    
+    
+    
+  },
     {
     id: "portfolio",  
     title: "Personal Portfolio Website",
