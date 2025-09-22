@@ -13,6 +13,18 @@ const projects = [
     
     
   },
+  {
+    id: "UserHub API",  
+    title: "UserHub  REST API testing Project on postman",
+    //description: "A responsive portfolio site showcasing my skills, projects, and resume. Built with modern tools and smooth animations.",
+    //tools: ["React", "TailwindCSS", "Framer Motion"],
+    image: "/images/UserHub.png", // add to public/images/
+    github: "https://github.com/tamannaoishy/UserHub-API-Testing-Project",
+    live: "",
+    
+    
+    
+  },
     {
     id: "portfolio",  
     title: "Personal Portfolio Website",
