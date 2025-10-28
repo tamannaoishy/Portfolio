@@ -13,6 +13,18 @@ const projects = [
     
     
   },
+    {
+    id: "JMeter Chaining",  
+    title: "Chained API Workflow Simulation with JMeter (Dmoney Project)",
+    //description: "A responsive portfolio site showcasing my skills, projects, and resume. Built with modern tools and smooth animations.",
+    //tools: ["React", "TailwindCSS", "Framer Motion"],
+    image: "/images/jmeterchaining.png", // add to public/images/
+    github: "https://github.com/tamannaoishy/dmoney-jmeter-chaining",
+    live: "",
+    
+    
+    
+  },
   {
     id: "UserHub API",  
     title: "UserHub  REST API testing Project on postman",
